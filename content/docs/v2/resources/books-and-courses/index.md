@@ -18,7 +18,6 @@ header_sub_title: Ionic 2 Developer Preview
     <a href="#books">Ionic 2 Books</a>
   </h3>
   <p>There are some wonderful books out for Ionic 2, with several major ones in the works.</p>
-
   <ul>
     <li><a href="https://www.joshmorony.com/building-mobile-apps-with-ionic-2/">Building Mobile Apps with Ionic 2 by Joshua Morony</a></li>
   </ul>
@@ -39,6 +38,10 @@ header_sub_title: Ionic 2 Developer Preview
 </section>
 
 <section id="courses">
+<h3><a href="#courses">Ionic 2 Classroom Courses</a></h3>
+  <ul>
+      <li> <a href="http://caravanaweb.com.br" target="_blank">Learn Ionic 2 (Portuguese - Brazil)</a></li>
+  </ul>
   <h3>
     <a href="#courses">Ionic 2 Online Courses</a>
   </h3>
